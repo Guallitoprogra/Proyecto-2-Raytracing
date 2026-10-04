@@ -22,8 +22,6 @@ Para comprobar los calculos:
 zig build test
 ```
 
-El alcance y los diez commits previstos estan en [PLAN.md](PLAN.md).
-
 ## Video
 
 Pendiente de grabar cuando esten terminados los materiales y efectos.
