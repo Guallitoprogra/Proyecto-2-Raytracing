@@ -26,7 +26,4 @@ zig build test
 
 Pendiente de grabar cuando esten terminados los materiales y efectos.
 
-## Referencias del enunciado
 
-- https://www.youtube.com/watch?v=91kxRGeg9wQ
-- https://www.youtube.com/watch?v=WN98_qIKVds
