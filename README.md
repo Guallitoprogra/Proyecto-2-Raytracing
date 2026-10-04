@@ -14,7 +14,13 @@ zig build run -Doptimize=ReleaseFast
 
 ## Avance
 
-Dia 1: base del proyecto y ventana con framebuffer de 320 x 240 pixeles.
+Dia 1: ventana con framebuffer de 320 x 240 pixeles, rayos en 3D, camara fija y una escena de prueba con bloques. Las caras tienen sombreado basico; las texturas y los efectos se agregaran en los siguientes avances.
+
+Para comprobar los calculos:
+
+```powershell
+zig build test
+```
 
 El alcance y los diez commits previstos estan en [PLAN.md](PLAN.md).
 
